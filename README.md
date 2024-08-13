@@ -1,1 +1,1 @@
-# mobile-test-msib7
+# Mobile Intern Suitmedia Test MSIB 7
