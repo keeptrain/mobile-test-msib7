@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">suitmedia</string>
+
+    <string name="back">Navigate up</string>
+
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="nameError">"Name must be filled!"</string>
+    <string name="palindromeError">"Palindrome must be filled!"</string>
+    <string name="resultPalindrome">Palindrome Result</string>
+    <string name="isPalindrome">isPalindrome</string>
+    <string name="notPalindrome">Not Palindrome</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    
+    <string name="welcome">Welcome</string>
+    <string name="fullname">Fullname</string>
+
+    <string name="defaultSelected">Selected User Name</string>
+    <string name="chooseUser">Choose a user</string>
+
+    <string name="firstLastName">%1$s %2$s</string>
+    <string name="email">EMAIL@EMAIL.COM</string>
+</resources>
