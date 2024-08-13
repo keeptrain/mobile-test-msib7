@@ -21,4 +21,6 @@
 
     <string name="firstLastName">%1$s %2$s</string>
     <string name="email">EMAIL@EMAIL.COM</string>
+    <string name="emptyStateMessage">Data is empty</string>
+
 </resources>

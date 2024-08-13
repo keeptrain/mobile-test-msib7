@@ -47,25 +47,21 @@ class MainActivity : AppCompatActivity() {
                         .setMessage(result)
                         .setPositiveButton("OK") { dialog, _ ->
                             dialog.dismiss()
-                        }
-                        .show()
+                        }.show()
                 }
             }
         }
 
         binding.buttonNext.setOnClickListener {
             val intent = Intent(this@MainActivity, SecondActivity::class.java)
-            /*if (name != null) {
+            if (name != null) {
                 if (name.isEmpty()) {
                     binding.editName.error = getString(R.string.nameError)
                 } else {
                     intent.putExtra(NAME,name.toString())
                     startActivity(intent)
                 }
-            }*/
-
-            startActivity(intent)
-
+            }
         }
     }
 
